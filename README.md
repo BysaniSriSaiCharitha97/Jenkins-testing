@@ -7,3 +7,4 @@ Checking the build by a change in webhook
 Made Changes in webhook
 using ngrok server
 using https
+Added git path in configuration
